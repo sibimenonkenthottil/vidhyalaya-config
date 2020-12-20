@@ -1,13 +1,5 @@
 server:
   port: 8888
-spring:
-  cloud:
-    config:
-      server:
-        git:
-          uri: https://github.com/sibimenonkenthottil/vidhyalaya-config.git
-  application:
-    name: configserver
 eureka:
   client:
     register-with-eureka: true
