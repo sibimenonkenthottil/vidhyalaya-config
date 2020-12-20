@@ -7,7 +7,7 @@ spring:
         git:
           uri: https://github.com/sibimenonkenthottil/vidhyalaya-config.git
   application:
-    name: config
+    name: configserver
 eureka:
   client:
     register-with-eureka: true
