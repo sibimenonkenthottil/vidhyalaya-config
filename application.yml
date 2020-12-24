@@ -2,4 +2,7 @@ spring:
  data:
   mongodb:
    uri: mongodb+srv://admin:femLZHkRKLMzfQcP@vidh-cls.zuk7k.mongodb.net/ividhyalaya?retryWrites=true&w=majority
-
+eureka:
+  client:
+    register-with-eureka: true
+    eureka-server-port: 8761
