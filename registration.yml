@@ -3,4 +3,5 @@ server:
 vidhyalaya:
  email:
   subject: Registration email -
+  body: <html></html>
 
