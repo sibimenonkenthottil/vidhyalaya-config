@@ -1,7 +1,7 @@
 spring:
  data:
   mongodb:
-   uri: mongodb+srv://admin:femLZHkRKLMzfQcP@vidh-cls.zuk8k.mongodb.net/ividhyalaya?retryWrites=true&w=majority
+   uri: mongodb+srv://admin:femLZHkRKLMzfQcP@vidh-cls.zuk7k.mongodb.net/ividhyalaya?retryWrites=true&w=majority
 server:
  port: 8081
 vidhyalaya:
